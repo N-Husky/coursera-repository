@@ -8,12 +8,16 @@ body {
 /* font famiy etc*/
  background-color: #7a7a85;
  color:white;
+ font-weight:bold;
 }
 h1 {
  color: black;
  text-align: center;
  margin-top:25px;
  margin-bottom:35px;
+ font-style:italic;
+ font-weight: bold;
+ font-family: Arial, Helvetica, sans-serif;
 }
  div.DescriptionContainer {
  border: 1px solid black;
@@ -34,19 +38,21 @@ div.DescriptionContainer p.DistrName {
 	position: absolute;
 	top: 0px;
 	right: 0px;
-	
 }
 #p1 {
 background-color: black;
 color: white;
+font-style:italic;
 }
 #p2{
 background-color:#006600;
 color: black;
+font-style:italic;
 }
 #p3{
 background-color:green;
 color:white;
+font-style:italic;
 }
 .row{
 width:100%;
