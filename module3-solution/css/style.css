@@ -45,11 +45,8 @@ padding-bottom:30px;
   clear: both;
   margin-top: -20px;
 }
-#OurMenu{
- text-align: center;
+.text-center{
  color: white;
- margin:10px;
- font-size: 30px;
 }
 h3.MealName{
  text-align: center;
