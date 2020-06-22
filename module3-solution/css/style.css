@@ -1,0 +1,72 @@
+*{
+ box-sizing: border-box;
+ padding:0;
+ margin:0;
+}
+body {
+font-family: 'Noto Sans HK', sans-serif; 
+background-color: #595959;
+color: solid white;
+}
+#header-nav{
+border:0;
+border-radius:0;
+background-color: black;
+padding-bottom:20px;
+}
+.navbar-brand h1{
+color: #fff;
+text-align: left;
+margin-left:auto;
+margin-right:auto;
+  margin-top: 0;
+  margin-bottom: 0;
+margin-top:10px;
+padding-bottom:30px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list {
+ margin-top: 10px;
+ background-color: gray;
+}
+#nav-list a {
+  color: white;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: gray;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -20px;
+}
+.text-center{
+ color: white;
+}
+h3.MealName{
+ text-align: center;
+ color: white;
+ font-size: 20px;
+ font-weight: bold;
+ margin:10px;
+}
+div.TileContainer{
+ background-color: gray;
+ padding: 10px;
+ margin-bottom:15px;
+ margin-top:15px;
+ margin-left:auto;
+ margin-right:auto:
+}
+span.MealDescription{
+ width: 90%;
+}
+#home-tiles{
+margin:auto;
+}
+

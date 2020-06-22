@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+	<head>
+		<link rel="stylesheet" href="css/style.css">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Module 2 solution</title>
+	</head>
+	<body>
+		<h1>Top 3 popular Linux distributions</h1>
+		<div class="row">
+			<div class="col-lg-4 col-md-6"><div class="DescriptionContainer">MX Linux is a midweight Linux operating system based on Debian stable and using core antiX components, with additional software created or packaged by the MX community.<p class="DistrName" id="p1">MX Linux</p></div></div>
+			<div class="col-lg-4 col-md-6"><div class="DescriptionContainer">Manjaro is a free and open-source Linux distribution based on the Arch Linux operating system.It features a rolling release update model and uses Pacman as its package manager.<p class="DistrName" id="p2">Manjaro</p></div></div>
+			<div class="col-lg-4 col-md-12"><div class="DescriptionContainer ">Linux Mint is a community-driven Linux distribution based on Ubuntu or Debian. Linux Mint comes bundled with a variety of free and opand can provide full out-of-the-box multimedia support<p class="DistrName" id="p3">Linux Mint</p></div></div>
+		</div>
+	</body>
+</html>
